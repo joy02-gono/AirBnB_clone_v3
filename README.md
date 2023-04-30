@@ -153,7 +153,9 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Author
+## Authors
+Alexa Orrico - Github / Twitter
+Jennifer Huang - Github / Twitter
 Rejoice Gono - [Github] (https://github.com/joy02-gono) 
 
 
